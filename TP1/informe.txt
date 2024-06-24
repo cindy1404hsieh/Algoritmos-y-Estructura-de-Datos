@@ -1,0 +1,27 @@
+En el informe tenes que explicarle a tu corrector 
+
+1.como se compila y 
+
+2.corre tu programa, 
+
+
+
+
+
+
+
+
+
+3.como funciona la lectura de archivos, 
+
+4.como manejas la memoria dinamica y 
+
+5.debes incluir diagramas de memoria 
+	o de algun otro tipo que ayuden a entender tu implementacion.
+
+
+este tp tiene parte teórica a explicar
+explica como lo compilaste y lo corriste
+
+- Cómo funciona la lectura de archivos
+- Cómo manejas la memoria dinámica 
