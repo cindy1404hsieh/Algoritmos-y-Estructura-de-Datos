@@ -44,14 +44,7 @@ Los tipos de acción posibles son:
 - r: reemplazar objetos
 - e: eliminar objetos
 - m: mostrar un mensaje
-
-## Conceptos Evaluados
-- Lectura y manejo de archivos: Se implementaron funciones para leer y procesar archivos de texto.  
-- Manejo de memoria dinámica: Se usaron adecuadamente las funciones malloc y free para gestionar la memoria.  
-- Estructuras de datos: Se emplearon estructuras para representar objetos e interacciones.  
-- Modularización del código: Se dividió el código en múltiples archivos y funciones para mejorar la organización y legibilidad.  
-- Validación de interacciones: Se comprobó la validez de las interacciones entre objetos.  
-- Liberación de recursos: Se aseguró la liberación de toda la memoria dinámica utilizada.  
+ 
 
 ## Compilación
 
