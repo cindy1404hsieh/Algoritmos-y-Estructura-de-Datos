@@ -1,6 +1,31 @@
 # Algoritmos-y-Estructura-de-Datos Pandolfo
+## Programa sintético
+La materia tiene por objetivo principal enseñar conceptos de Tipos de Datos Abstractos y su correcto uso. Adicionalmente se enseñan conceptos de análisis de algoritmos que ayudan a comparar deferentes implementaciones y a elegir la más adecuada según el caso.
+
+- Lenguajes compilados e interpretados. Lenguaje de programación C. Punteros. Manejo de memoria.
+
+- Análisis de algoritmos y complejidad computacional. Notación Big O. Teorema maestro.
+
+- Algoritmos recursivos. Recursividad de cola. Resolución de problemas con backtracking.
+
+- Programación y calidad del Software. Introducción a la metodología de desarrollo por pruebas (TDD).
+
+- Tipos de datos abstractos (TDA). Concepto y uso. TDA básicos pila y cola.
+
+- TDA Lista. Operaciones básicas. Iteradores internos y externos.
+
+- TDA árbol. Árbol binario, ABB, AVL y Rojo negro. Árboles B. Heap binario.
+
+- Métodos de ordenamiento. Quicksort, Merge sort, Heap sort. Métodos no comparativos.
+
+- Diccionarios, definición y uso. Implementación de diccionario con tablas de Hash. Hashes abiertos y cerrados.
+
+- Introducción a grafos. Conceptos, características y representación. Dijkstra, Prim, Kruskal. Recorridos de grafos.
+
 # Sala de Escape Pokemon - Juego
-![image](https://github.com/cindy1404hsieh/Algoritmos-y-Estructura-de-Datos/assets/90338162/ae61db39-c690-4bcc-a7fa-59456f453839)
+<img src="https://github.com/cindy1404hsieh/Algoritmos-y-Estructura-de-Datos/assets/90338162/ae61db39-c690-4bcc-a7fa-59456f453839" width="50%">
+
+
 
 
 # TP1
@@ -74,15 +99,7 @@ gcc sala.c escape_pokemon.c -o escape_pokemon -Wall -Wextra -std=c99
 ```
 
 
-## Conceptos Evaluados
 
-- **Lectura y manejo de archivos**: Se implementaron funciones para leer y procesar archivos de texto que describen los objetos y las interacciones.
-- **Manejo de memoria dinámica**: Se usaron adecuadamente las funciones `malloc` y `free` para gestionar la memoria.
-- **Estructuras de datos**: Se emplearon estructuras de datos definidas para representar objetos e interacciones, así como la estructura de la sala.
-- **Modularización del código**: Se dividió el código en múltiples archivos y funciones para mejorar la organización y legibilidad. La estructura de la sala se definió en `sala.c`, y se implementaron TDA utilizados a lo largo del cuatrimestre.
-- **Validación de interacciones**: Se comprobó la validez de las interacciones entre objetos, incluyendo nuevas acciones como `ESCAPAR`.
-- **Interfaz de usuario**: Se desarrolló una interfaz de texto que permite al usuario interactuar con el juego mediante comandos básicos como `ayuda`, `agarrar`, `describir`, y `salir`, además de comandos específicos definidos en el archivo de interacciones.
-- **Pruebas**: Se elaboraron pruebas para verificar el correcto comportamiento de las funciones implementadas, especialmente las nuevas funciones de `sala.c`.
 
 
 
